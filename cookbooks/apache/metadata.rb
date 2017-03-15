@@ -2,7 +2,7 @@ name 'apache'
 maintainer 'TimdDawa'
 maintainer_email 'timdawa@verizon.netm'
 license 'all_rights'
-description 'Installs/Configures apac:he'
+description 'Installs/Configures apache'
 long_description 'Installs/Configures apache'
 version '0.1.0'
 
